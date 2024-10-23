@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <!-- 필수 요소들 -->
+    <title>バウムクーヘン～音楽家達のティータイム</title>
+    <link>https://podcasts.apple.com/us/podcast/バウムクーヘン〜音楽家たちのティータイム/id1774802902</link> <!-- 팟캐스트 홈페이지 -->
+    <language>jpn-jn</language> <!-- 언어 코드 -->
+    <copyright>Copyright 2024 Yukari Mukae, Hayoung Lee, Julian Selier</copyright>
+    <itunes:author>Yukari,Ha young,Julian</itunes:author>
+    <itunes:summary>私たちは、日本人のゆかりと、韓国人のハヨンと、ドイツ人のユリアンの3人で「バウムクーヘン」というアカウント名で活動をしています。育った国がバラバラの3人の共通点は、音楽が好きと言うこと！</itunes:summary>
+    <description>
+このポッドキャストでは、それぞれの国で生まれ育った3人が、　音楽の価値観や文化の違いなどを日本語で自由に話をしていきます。</description>
+
+    <!-- 이미지 (필수) -->
+    <itunes:image href="https://ibb.co/9wcnPvQ" />
+
+    <!-- 카테고리 (필수) -->
+    <itunes:category text="Music">
+      <itunes:category text="Music Interviews"/>
+    </itunes:category>
+
+    <!-- 명시적 콘텐츠 여부 -->
+    <itunes:explicit>no</itunes:explicit> <!-- 'yes' 또는 'clean'도 가능 -->
+
+    <!-- 새로운 에피소드가 업로드될 때 구독자에게 업데이트되는 주기 -->
+    <itunes:owner>
+      <itunes:name>Yukari,Ha young,Julian</itunes:name>
+      <itunes:email>example@example.com</itunes:email>
+    </itunes:owner>
+
+    <!-- 첫 번째 에피소드 (필수) -->
+    <item>
+      <title>こんにちは,안녕하세요,Hallo!</title>
+      <link>https://podcastsconnect.apple.com/my-podcasts/show/%E3%83%90%E3%82%A6%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%9C%E9%9F%B3%E6%A5%BD%E5%AE%B6%E9%81%94%E3%81%AE%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0/37845b98-e712-4b2d-a709-ab8c98049cc3/episodes</link>
+      <guid>https://podcasts.apple.com/us/podcast/バウムクーヘン〜音楽家達のティータイム/id1775420896/episode1</guid>
+      <description>みなさん、こんにちは！
+안녕하세요！
+Hallo！
+
+私たちは、日本人のゆかりと、韓国人のハヨンと、ドイツ人のユリアンの3人で「バウムクーヘン」というアカウント名で活動をしています。</description>
+      <itunes:summary>育った国がバラバラの3人の共通点は、音楽が好きと言うこと！
+
+このポッドキャストでは、それぞれの国で生まれ育った3人が、　音楽の価値観や文化の違いなどを日本語で自由に話をしていきます。
+
+将来音楽を仕事にしたい人や、日本、韓国、ドイツの文化に興味がある人は是非フォローしていただけると嬉しいです！
+
+それでは、今日も3人の自由なトークをお楽しみ下さい。</itunes:summary>
+      <enclosure url="https://drive.google.com/file/d/1D_y9PxPyig5FvofSqwRNvpVrbcO6zm28/view?usp=drivesdk" length="94371840" type="audio/mpeg" />
+      <itunes:duration>00:08:35</itunes:duration> <!-- 에피소드 길이 -->
+      <pubDate>Tue, 15 Oct 2024 10:00:00 GMT</pubDate>
+
+  </channel>
+</rss>
